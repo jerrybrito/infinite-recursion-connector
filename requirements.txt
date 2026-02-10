@@ -1,0 +1,2 @@
+# Requires: abandoned-maybe
+# (Not available on PyPI)
